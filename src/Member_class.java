@@ -14,7 +14,7 @@ class Member{
     int age;
     long salary;
     Member(String a,int b,long c){
-        
+
         this.name=a;
         this.age=b;
         this.salary=c;
